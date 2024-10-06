@@ -21,6 +21,7 @@ Instructions:
 3.Enjoy the website.
 
 SECOND PROJECT<br>
+SWAP TO MASTER BRANCH! <br>
 __________________
 
 Technology:
