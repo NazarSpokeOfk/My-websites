@@ -10,7 +10,6 @@ normalize-css
 
 Description:
 <br>
-This website is about Uber Russia.(RIP)
 This website is built with pure HTML and CSS.
 This site contains information about radio, how to create and maintain it.
 
@@ -34,6 +33,7 @@ Bootstrap
 
 Description:
 <br>
+This website is about Uber Russia.(RIP)
 This project was created using not only the usual tools, but also using the Bootstrap library, and the SASS preprocessor. Project was mainly built with the help of bootstrap grid. Therefore, I used classes that are originally included in bootstrap to create strings and element sizes.
 You can learn more about this topic in the bootstrap documentation.
 
