@@ -1,0 +1,41 @@
+.pre-rewiews{
+    text-transform: uppercase;
+    margin-top: 50px;
+    text-align: center;
+    font-size: 30px;
+    font-weight: 700;
+}
+
+.rewiews {
+    &__text {
+      margin-left: 70px;
+      margin-top: -30px; // отрицательное значение подвинет текстовые блоки вверх
+    }
+  
+    &__name {
+      font-size: 18px;
+      font-weight: 700;
+    }
+  
+    &__descr {
+      font-size: 16px;
+      font-weight: 300;
+      span{
+        display: block;
+        padding-top: 15px;
+      }
+    }
+  
+    &__photos {
+      max-width: 169px;
+      max-height: 169px;
+      margin-bottom: 60px; // если необходимо увеличить расстояние между изображением и текстом
+    }
+  }
+
+  .rewiew__first, .rewiew__second, .rewiew__third {
+    display: flex;
+    align-items: center;  // выравнивание элементов по центру по вертикали
+    margin-bottom: 50px;  // можно настроить отступ между блоками
+  }
+  

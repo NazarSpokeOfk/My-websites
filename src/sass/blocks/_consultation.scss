@@ -1,0 +1,20 @@
+.consultation{
+    min-height: 680px;
+    padding:100px 0 92px 0;
+    background: url('../../images/bg2.jpg') center (center/cover) no-repeat;
+
+    &__subtitle{
+        color:white;
+        font-weight: 500;
+        font-size: 20px;
+
+    }
+}
+
+.title{
+    font-size: 36px;
+    text-align: left;
+    font-weight: 600;
+    color:white;
+    text-transform: uppercase;
+}

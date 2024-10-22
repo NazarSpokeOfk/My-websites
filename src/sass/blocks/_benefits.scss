@@ -1,0 +1,49 @@
+.benefits{
+    max-width: 1920px;
+    height: 470px;
+    background-color: #F6F6F6;
+    &__title{
+        padding-top: 70px;
+        margin: 0 auto;
+        width: 380px;
+        height: 30px;
+        display: block;
+        font-size: 30px;
+        font-weight: 700;
+        text-transform: uppercase;
+    }
+    &__icons{
+        display: flex;
+        justify-content: space-between;
+        text-align: center;
+        margin: 75px auto;
+        gap: 90px;
+       
+    }
+}
+
+.icons{
+    &_block{
+        width: 250px;
+        height: 250px;
+    }
+    &__title{
+        margin-top: 38px;
+        font-size: 18px;
+        font-weight: 700;
+    }
+    &__descr{
+        margin-top: 23px;
+        span{
+            font-family: 'Museo Sans Cyrl';
+            color: $main-color
+        }
+    }
+}
+
+#heart{
+    animation-name: heartbeat;
+    animation-duration: 2s;
+    animation-timing-function: ease;
+    animation-iteration-count: infinite;
+}
