@@ -81,6 +81,6 @@ Instructions:
 2.Download Node JS to your PC. Guide - https://nodejs.org/en/download/package-manager.<br>
 3.Download all depencies,that are specified in package.json. You can install them manually, or just type "npm i" in your terminal.<br>
 4.Make a correct hierarchy of the project, check the correct fonts.(see index.html) <br>
-5.Make sure you have the gulpfile configured correctly.
-6.Type "gulp" in your terminal. The file will then run.
-7.Enjoy website!
+5.Make sure you have the gulpfile configured correctly.<br>
+6.Type "gulp" in your terminal. The file will then run.<br>
+7.Enjoy website!<br>
