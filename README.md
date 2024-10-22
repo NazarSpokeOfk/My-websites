@@ -1,5 +1,12 @@
 Greetings!
 
+**Structure**<br>
+
+
+***Main*** branch - First Project(Radio) <br>
+***Master*** branch  - Second Project(Uber) <br>
+***Pulse*** branch - Third Project(Pulse)<br>
+
 FIRST PROJECT<br>
 ________________
 Technology:
@@ -45,3 +52,35 @@ Instructions:
 4. Make a correct hierarchy of the project, check the correct fonts.(see index.html) <br>
 5.Enjoy website.
 
+
+THIRD PROJECT<br>
+SWAP TO PULSE BRANCH! <br>
+__________________
+Technology:
+<br>
+HTML,
+SCSS,
+Gulp,
+Bootstrap,
+Browser-sync,
+Gulp-autoprefixer,
+Gulp-clean-css,
+Gulp-rename,
+Gulp-sass,
+Sass
+
+Description:
+<br>
+This website is about Pulse heartbeat monitors.
+This project was created using not only the usual tools, but also using the Gulp, Gulp extensions and the SCSS preprocessor. Project was mainly built with the help of own grid. 
+
+Instructions:
+<br>
+
+1.Pull or Install repository localy.<br>
+2.Download Node JS to your PC. Guide - https://nodejs.org/en/download/package-manager.<br>
+3.Download all depencies,that are specified in package.json. You can install them manually, or just type "npm i" in your terminal.<br>
+4.Make a correct hierarchy of the project, check the correct fonts.(see index.html) <br>
+5.Make sure you have the gulpfile configured correctly.
+6.Type "gulp" in your terminal. The file will then run.
+7.Enjoy website!
