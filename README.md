@@ -47,7 +47,7 @@ You can learn more about this topic in the bootstrap documentation.
 ### Instructions:
 <br>
 1.Download the project to your computer.<br>
-2. Download bootstrap to your computer. [Guide](https://getbootstrap.com/docs/4.0/getting-started/download/)<br>
+2. Download bootstrap to your computer. <a href="https://getbootstrap.com/docs/4.0/getting-started/download/" target="_blank">Guide</a>.<br>
 3. Install an extension on VS Code called Live Sass Compiler. You can also use any other sass compiler, for example Koala. <br>
 4. Make a correct hierarchy of the project, check the correct fonts.(see index.html) <br>
 5.Enjoy website.
