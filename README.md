@@ -1,6 +1,6 @@
 ### Greetings!
 
-**Structure**<br>
+*Structure*<br>
 
 
 ***Main*** branch - First Project(Radio) <br>
@@ -9,8 +9,8 @@
 
 ## FIRST PROJECT<br>
 
-### Technology:
-<br>
+### Technology:<br>
+
 - HTML<br>
 - CSS<br>
 - normalize-css<br>
