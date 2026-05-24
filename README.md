@@ -17,7 +17,7 @@
 
 ### 📺 Screenshots:<br>
 
-<img width="933" alt="Screenshot taken on 2024-10-28 at 9:57:19 PM" src="https://github.com/user-attachments/assets/01c91854-793e-4d3c -8832-50f2a0298ae2">
+<img width="933" alt="Screenshot taken on 2024-10-28 at 9:57:19 PM" src="https://github.com/user-attachments/assets/01c91854-793e-4d3c-8832-50f2a0298ae2">
 
 ---
 
