@@ -59,7 +59,7 @@ You can run the project by simply opening index.html, or by using a tool such as
 
 ---
 
- <img width="1440" alt="Screenshot 2024-10-28 at 10:04:50 PM-min" src="https://github.com/user-attachments/assets/e44530c4-ecc2-4239-979d -5f7a1177128c">
+ <img width="1440" alt="Screenshot 2024-10-28 at 10:04:50 PM-min" src="https://github.com/user-attachments/assets/e44530c4-ecc2-4239-979d-5f7a1177128c">
 
 
 
